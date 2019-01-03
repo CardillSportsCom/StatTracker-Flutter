@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "41770019498",
+    "firebase_url": "https://stat-tracker-1537117819639.firebaseio.com",
+    "project_id": "stat-tracker-1537117819639",
+    "storage_bucket": "stat-tracker-1537117819639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41770019498:android:87542a0840fccfbb",
+        "android_client_info": {
+          "package_name": "com.cardill.sports.stattracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41770019498-l26vj4ol5evhkb0m0v3j400ont6fsmpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cardill.sports.stattracker",
+            "certificate_hash": "17874aedaffeea9a431160ecf2273c3db44a8416"
+          }
+        },
+        {
+          "client_id": "41770019498-h8dnln111hvmquugougdfvrusoafgbr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cardill.sports.stattracker",
+            "certificate_hash": "d0229188a539de8149badfebe941efb09c85e89a"
+          }
+        },
+        {
+          "client_id": "41770019498-pr4h8o3q2iou6gmaf9die487s5rdk26m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzN0o2TqXURyYS3U5QQllJ90N6InO_qAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41770019498-pr4h8o3q2iou6gmaf9die487s5rdk26m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6796265721314281~3269435758"
+    }
+  ],
+  "configuration_version": "1"
+}
