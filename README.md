@@ -1,4 +1,4 @@
-# stat_tracker_flutter
+# StatTracker-Flutter
 
 Stat Tracker for Basketball Games
 
